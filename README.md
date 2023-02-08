@@ -1,5 +1,5 @@
-# Mehmet-Anil-Yesil
-Name: Mehmet Anıl
+# Anil-Yesil
+Name: Anıl
 
 Surname: Yeşil
 
