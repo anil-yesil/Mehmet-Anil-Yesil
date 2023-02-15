@@ -1,4 +1,4 @@
-#Hi 👋, 
+Hi 👋, 
 I'm Anıl Yeşil
 I’m currently a freshman at Bilkent University studying computer engineering
 
