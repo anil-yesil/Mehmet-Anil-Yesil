@@ -1,6 +1,6 @@
-# Mehmet-Anil-Yesil
-Name: Mehmet Anıl
+#Hi 👋, 
+I'm Anıl Yeşil
+I’m currently a freshman at Bilkent University studying computer engineering
 
-Surname: Yeşil
-
-CS Student
+📫 How to reach me: 
+  mail: anil.ysl@icloud.com  instagram: anil_yesil_
